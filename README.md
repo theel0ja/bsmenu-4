@@ -10,7 +10,7 @@ Highlights automatically current Bootstrap 4 menu entry.
 
 ### Github Pages
 ```html
-<script src="https://theel0ja.github.io/bsmenu-4/bsmenu.js"></script>
+<script src="https://theel0ja.info/bsmenu-4/bsmenu.js"></script>
 ```
 
 Make sure that you have [jQuery](https://cdnjs.com/libraries/jquery) installed.
